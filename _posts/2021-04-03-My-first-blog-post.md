@@ -15,19 +15,19 @@ comments: true
 ## Family
 
 ### Mom
-#### My mom is an angel.
+#### -My mom is an angel.
 
 ### Dad
-#### My dad is great cook.
+#### -My dad is great cook.
 
 ### Me
-#### I'm a student.
+#### -I'm a student.
 
 ### younger brother
-#### He's very very very very very very very very ugly.
+#### -He's very very very very very very very very ugly.
 
 ### younger sister
-#### She's very very very very very very very very cute.
+#### -She's very very very very very very very very cute.
 
 > #### I love my family
 
