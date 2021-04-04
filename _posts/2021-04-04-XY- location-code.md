@@ -9,7 +9,7 @@ comments: true
 
 ### code
 
-{% highlight css %}
+~~~
 
 class point:
     def __init__(self, xy):
@@ -31,4 +31,4 @@ print(A.get())
 A.move((9,8))
 print(A.get())
 
-{% endhighlight %}
+~~~
