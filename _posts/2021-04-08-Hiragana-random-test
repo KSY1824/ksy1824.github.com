@@ -1,0 +1,31 @@
+---
+layout: post
+title: Hiragana random test
+date: 2021-04-08
+excerpt: "I hate Japan ㅡㅡ"
+tags: [random, code, tuple]
+comments: true
+---
+
+#### I made it for Hiragana - Japanese exam.
+
+### code
+
+~~~
+
+import random
+
+A = ('a', 'i', 'u', 'e', 'o')
+a = '0'
+
+while a == '0':
+    b = random.randint(0, len(A) - 1)
+    print('추첨한 히라가나 글자 소리 : ' + A[b])
+    a = input('계속할까요? > ')
+    print('-' * 50)
+
+    if a == '0':
+        continue
+    else:
+        break
+~~~
