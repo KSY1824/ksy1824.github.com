@@ -20,7 +20,7 @@ a = '0'
 
 while a == '0':
     b = random.randint(0, len(A) - 1)
-    print('The sound of hiragana letters that were picked : ' + A[b])
+    print('The sound of hiragana letter that were picked : ' + A[b])
     a = input('Continue? > ')
     print('-' * 50)
 
