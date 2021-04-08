@@ -20,8 +20,8 @@ a = '0'
 
 while a == '0':
     b = random.randint(0, len(A) - 1)
-    print('추첨한 히라가나 글자 소리 : ' + A[b])
-    a = input('계속할까요? > ')
+    print('The sound of hiragana letters that were picked : ' + A[b])
+    a = input('Continue? > ')
     print('-' * 50)
 
     if a == '0':
@@ -30,3 +30,7 @@ while a == '0':
         break
         
 ~~~
+
+### How to use
+#### press 0 to continue.
+#### You can change Contents of A to get other Hiragana's sound.
