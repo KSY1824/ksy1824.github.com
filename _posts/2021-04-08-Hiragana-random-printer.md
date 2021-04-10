@@ -15,18 +15,23 @@ comments: true
 
 import random
 
-A = ['a', 'i', 'u', 'e', 'o']
+import random
+
+A = ['ta', 'ti', 'tu', 'te', 'to']
 a = '0'
 
 while a == '0':
-    if len(A) == 0:
-        break
-
+    
     b = random.randint(0, len(A) - 1)
 
     print('The sound of hiragana letter that were picked : ' + A[b])
     del A[b]
-    a = input('Continue? > ')
+
+    if len(A) < 1:
+        print('Finish!' + '\n' + ('-' * 50))
+        break
+    else:
+        a = input('Continue? > ')
 
     if a == '0':
         print('-' * 50)
