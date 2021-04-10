@@ -27,12 +27,13 @@ while a == '0':
     print('The sound of hiragana letter that were picked : ' + A[b])
     del A[b]
     a = input('Continue? > ')
-    print('-' * 50)
 
     if a == '0':
+        print('-' * 50)
         continue
     else:
         break
+    
 ~~~
 
 ### How to use
