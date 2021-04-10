@@ -15,7 +15,7 @@ comments: true
 
 import random
 
-A = ['a', 'i', 'u', 'e', 'o', 'ka', 'ki', 'ku', 'ke', 'ko']
+A = ['a', 'i', 'u', 'e', 'o']
 a = '0'
 
 while a == '0':
