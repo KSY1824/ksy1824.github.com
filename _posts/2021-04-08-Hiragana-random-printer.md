@@ -41,5 +41,5 @@ while a == '0':
 ~~~
 
 ### How to use
-#### - press 0 and enter key to continue / press any key (Exclude 0) to end.
+#### - press 0 and enter key to continue / press any key (Exclude 0) and enter key to end.
 #### - You can change Contents of A to get other Hiragana's sound.
