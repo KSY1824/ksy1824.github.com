@@ -3,7 +3,7 @@ layout: post
 title: XY location code
 date: 2021-04-04
 excerpt: "I used tuple."
-tags: [XY, code, tuple]
+tags: [XY, code, tuple, HW]
 comments: true
 ---
 
