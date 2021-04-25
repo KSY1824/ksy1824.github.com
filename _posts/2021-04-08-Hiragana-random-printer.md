@@ -3,7 +3,7 @@ layout: post
 title: Hiragana random printer
 date: 2021-04-08
 excerpt: "I hate Japan ㅡㅡ"
-tags: [random, code, list]
+tags: [random, code, list, HW]
 comments: true
 ---
 
